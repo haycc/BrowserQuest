@@ -1,6 +1,7 @@
 BrowserQuest
+BrowserQuest
 ============
-
+[![Run on Repl.it](https://repl.it/badge/github/haycc/BrowserQuest)](https://repl.it/github/haycc/BrowserQuest)
 BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
 
 
